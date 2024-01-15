@@ -1,0 +1,12 @@
+.card{"overflow":"hidden","borderRadius":"0.25rem","maxWidth":"24rem"}
+    
+    .a
+    {"paddingTop":"1rem","paddingBottom":"1rem","paddingLeft":"1.5rem","paddingRight":"1.5rem"}
+    
+    .b
+    {
+        "marginBottom":"0.5rem","fontSize":"1.25rem","lineHeight":"1.75rem","fontWeight":700,"color":"#8B5CF6" 
+    }
+    
+    .c
+    {"display":"inline-block","paddingTop":"0.25rem","paddingBottom":"0.25rem","paddingLeft":"0.75rem","paddingRight":"0.75rem","marginRight":"0.5rem","borderRadius":"9999px","fontSize":"0.875rem","lineHeight":"1.25rem","fontWeight":600,"color":"#374151","backgroundColor":"#E5E7EB"}

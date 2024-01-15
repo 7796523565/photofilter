@@ -1,0 +1,97 @@
+.card{
+    overflow: hidden; 
+    border-radius: 0.25rem; 
+    max-width: 24rem; 
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05); 
+    }
+    
+    .a
+    {
+      padding-top: 1rem;
+      padding-bottom: 1rem; 
+      padding-left: 1.5rem;
+      padding-right: 1.5rem; 
+    }
+    
+    .b
+    {
+      margin-bottom: 0.5rem; 
+    font-size: 1.25rem;
+    line-height: 1.75rem; 
+    font-weight: 700; 
+    color: #8B5CF6; 
+    }
+    
+    .c
+    {
+      display: inline-block; 
+    padding-top: 0.25rem;
+    padding-bottom: 0.25rem; 
+    padding-left: 0.75rem;
+    padding-right: 0.75rem; 
+    margin-right: 0.5rem; 
+    border-radius: 9999px; 
+    font-size: 0.875rem;
+    line-height: 1.25rem; 
+    font-weight: 600; 
+    color: #374151; 
+    background-color: #E5E7EB; 
+    }
+
+    .search
+    {
+textAlign: center; 
+justifyContent: space-around;
+
+ overflow: hidden; 
+margin-top: 2.5rem;
+margin-bottom: 2.5rem; 
+border-radius: 0.25rem; 
+max-width: 24rem; 
+
+    }
+
+    .searchin{
+        width: 100%; 
+        max-width: 24rem; 
+
+    }
+
+.comp{
+display: flex; 
+padding-top: 0.5rem;
+padding-bottom: 0.5rem; 
+align-items: center; 
+border-bottom-width: 1px; 
+border-bottom-width: 2px; 
+    }
+
+.comp1
+    {
+        padding-top: 0.25rem;
+padding-bottom: 0.25rem; 
+padding-left: 0.5rem;
+padding-right: 0.5rem; 
+margin-right: 0.75rem; 
+border-style: none; 
+width: 100%; 
+line-height: 1.25; 
+color: #374151; 
+background-color: transparent; 
+appearance: none; 
+
+
+    }
+
+    .but
+    {
+padding-top: 0.25rem;
+padding-bottom: 0.25rem; 
+padding-left: 0.5rem;
+padding-right: 0.5rem; 
+border-radius: 0.25rem; 
+border-width: 4px; 
+font-size: 0.875rem;
+line-height: 1.25rem; 
+color: #ffffff
+    }
